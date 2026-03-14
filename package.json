@@ -28,6 +28,10 @@
     "claude",
     "ai-analysis"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humanist96/cli-anything-InvestHub"
+  },
   "author": "humanist96",
   "license": "MIT",
   "dependencies": {
